@@ -1,7 +1,7 @@
 
 ### Hi there! 👋 I'm Vansh Yadav
 
-I'm a product thinker who builds—currently an MBA student at IIT Roorkee targeting Product Management and Business Analyst internships.
+I'm a product thinker who builds—currently at  IIT Roorkee
 
 ---
 
