@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Vansh Yadav!
 
-### Product Thinker • Builder • MBA @ IIT Roorkee
+### Product Thinker • Builder • IIT Roorkee
 *Turning problems into AI-powered products and growth strategies*
 
 ---
