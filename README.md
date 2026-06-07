@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Vansh Yadav!
 
-### Product Thinker • Builder • IIT Roorkee
+### Product Thinker • Builder • 4th Year @ IIT Roorkee
 *Turning problems into AI-powered products and growth strategies*
 
 ---
@@ -13,8 +13,13 @@ A GenAI reimagining of LinkedIn with context-aware outreach, profile coaching, a
 
 ---
 
-## 💭 My Product Philosophy
-> "If I had an hour to solve a problem, I'd spend 55 minutes thinking about the problem and 5 minutes thinking about solutions." — Albert Einstein
+## � From Code to Product
+My GitHub journey started with building web apps, smart contracts, and data projects. Today, I use those technical foundations to build better products—understanding how engineering works helps me create realistic roadmaps and collaborate effectively with dev teams!
+
+---
+
+## �💭 My Product Philosophy
+&gt; "If I had an hour to solve a problem, I'd spend 55 minutes thinking about the problem and 5 minutes thinking about solutions." — Albert Einstein
 
 | 🎯 Problems Before Solutions     | ❤️ Users First                           | 📊 Outcomes Over Outputs             |
 | ------------------------------- | --------------------------------------- | ----------------------------------- |
@@ -24,37 +29,32 @@ A GenAI reimagining of LinkedIn with context-aware outreach, profile coaching, a
 
 ## 🛠️ My Toolkit
 
-### Product Thinking
-![Product Strategy](https://img.shields.io/badge/Product%20Strategy-000000?style=flat-square)
-![User Research](https://img.shields.io/badge/User%20Research-000000?style=flat-square)
-![Problem Framing](https://img.shields.io/badge/Problem%20Framing-000000?style=flat-square)
-![PRDs](https://img.shields.io/badge/PRDs-000000?style=flat-square)
-![Wireframing](https://img.shields.io/badge/Wireframing-000000?style=flat-square)
-![Roadmapping](https://img.shields.io/badge/Roadmapping-000000?style=flat-square)
-![A/B Testing Design](https://img.shields.io/badge/A/B%20Testing%20Design-000000?style=flat-square)
+&lt;div style="display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 16px;"&gt;
+  &lt;span style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 8px 16px; border-radius: 20px; font-size: 14px;"&gt;Product Strategy&lt;/span&gt;
+  &lt;span style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white; padding: 8px 16px; border-radius: 20px; font-size: 14px;"&gt;User Research&lt;/span&gt;
+  &lt;span style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); color: white; padding: 8px 16px; border-radius: 20px; font-size: 14px;"&gt;Problem Framing&lt;/span&gt;
+  &lt;span style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); color: white; padding: 8px 16px; border-radius: 20px; font-size: 14px;"&gt;PRDs&lt;/span&gt;
+  &lt;span style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); color: white; padding: 8px 16px; border-radius: 20px; font-size: 14px;"&gt;Wireframing&lt;/span&gt;
+  &lt;span style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); color: #333; padding: 8px 16px; border-radius: 20px; font-size: 14px;"&gt;Roadmapping&lt;/span&gt;
+  &lt;span style="background: linear-gradient(135deg, #d299c2 0%, #fef9d7 100%); color: #333; padding: 8px 16px; border-radius: 20px; font-size: 14px;"&gt;A/B Testing Design&lt;/span&gt;
+  &lt;span style="background: linear-gradient(135deg, #89f7fe 0%, #66a6ff 100%); color: white; padding: 8px 16px; border-radius: 20px; font-size: 14px;"&gt;Gap Analysis&lt;/span&gt;
+  &lt;span style="background: linear-gradient(135deg, #fddb92 0%, #d1fdff 100%); color: #333; padding: 8px 16px; border-radius: 20px; font-size: 14px;"&gt;User Pain Point Mapping&lt;/span&gt;
+  &lt;span style="background: linear-gradient(135deg, #a1c4fd 0%, #c2e9fb 100%); color: #333; padding: 8px 16px; border-radius: 20px; font-size: 14px;"&gt;Competitive Analysis&lt;/span&gt;
+  &lt;span style="background: linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%); color: white; padding: 8px 16px; border-radius: 20px; font-size: 14px;"&gt;Business Impact Framing&lt;/span&gt;
+  &lt;span style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 8px 16px; border-radius: 20px; font-size: 14px;"&gt;GenAI Product Development&lt;/span&gt;
+  &lt;span style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white; padding: 8px 16px; border-radius: 20px; font-size: 14px;"&gt;LLM Integration&lt;/span&gt;
+  &lt;span style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); color: white; padding: 8px 16px; border-radius: 20px; font-size: 14px;"&gt;Prompt Engineering&lt;/span&gt;
+  &lt;span style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); color: white; padding: 8px 16px; border-radius: 20px; font-size: 14px;"&gt;SQL Basics&lt;/span&gt;
+  &lt;span style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); color: white; padding: 8px 16px; border-radius: 20px; font-size: 14px;"&gt;Data-driven Decision Making&lt;/span&gt;
+&lt;/div&gt;
 
-### Business Analysis
-![Gap Analysis](https://img.shields.io/badge/Gap%20Analysis-000000?style=flat-square)
-![User Pain Point Mapping](https://img.shields.io/badge/User%20Pain%20Point%20Mapping-000000?style=flat-square)
-![Competitive Analysis](https://img.shields.io/badge/Competitive%20Analysis-000000?style=flat-square)
-![Business Impact Framing](https://img.shields.io/badge/Business%20Impact%20Framing-000000?style=flat-square)
+---
 
-### AI & Data
-![GenAI Product Development](https://img.shields.io/badge/GenAI%20Product%20Development-000000?style=flat-square)
-![LLM Integration](https://img.shields.io/badge/LLM%20Integration-000000?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-000000?style=flat-square)
-![SQL Basics](https://img.shields.io/badge/SQL%20Basics-000000?style=flat-square)
-![Data-driven Decision Making](https://img.shields.io/badge/Data--driven%20Decision%20Making-000000?style=flat-square)
-
-### Prototyping Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&amp;logo=figma&amp;logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&amp;logo=notion&amp;logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude%20API-000000?style=flat-square)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&amp;logo=vercel&amp;logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&amp;logo=tailwind-css&amp;logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&amp;logo=vite&amp;logoColor=white)
+## 🧰 Prototyping &amp; Tools
+| Design                                                                                                   | Project Management                                                                                          | Deployment                                                                                                  | Dev Tools                                                                                          |
+| -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&amp;logo=figma&amp;logoColor=white) | ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&amp;logo=notion&amp;logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&amp;logo=vercel&amp;logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white) |
+|                                                                                                          | Claude API                                                                                                  |                                                                                                             | React • Tailwind • Vite                                                                            |
 
 ---
 
@@ -66,7 +66,10 @@ A GenAI reimagining of LinkedIn with context-aware outreach, profile coaching, a
 ---
 
 ## 📊 GitHub Stats
-![Vansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VanshYadav855&amp;show_icons=true&amp;theme=tokyonight)
+&lt;div style="display: flex; gap: 20px; flex-wrap: wrap;"&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api?username=VanshYadav855&amp;show_icons=true&amp;theme=tokyonight" alt="Vansh's GitHub Stats" width="45%"&gt;
+  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=VanshYadav855&amp;theme=tokyonight" alt="Vansh's GitHub Streak" width="45%"&gt;
+&lt;/div&gt;
 
 ---
 
