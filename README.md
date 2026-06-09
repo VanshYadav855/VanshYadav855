@@ -6,58 +6,39 @@
 ---
 
 ## 🌟 About Me
-I’m a passionate full‑stack developer who loves turning ideas into polished, production‑ready applications. Whether it’s data wrangling with **SQL**, automating workflows in **Python**, or building end‑to‑end web experiences, I’m always ready to dive in and get things done.
+I’m a full‑stack developer who thrives on turning ideas into clean, production‑ready code. From **SQL** data pipelines to **Python** automation, I enjoy building end‑to‑end solutions that solve real problems.
 
-My GitHub journey started with building web apps, smart contracts, and data projects. Today, I use those technical foundations to build better products—understanding how engineering works helps me create realistic roadmaps and collaborate effectively with dev teams!
-- 💻 **Languages & Tools:** Python, SQL, JavaScript, HTML/CSS, Node.js, React, Git
+- 💻 **Languages & Tools:** Python, SQL, JavaScript/TypeScript, HTML/CSS, Node.js, React, Git
 - 🛠️ **Current focus:** Data‑driven web apps & API integrations
 - 🎯 **Goal:** Keep learning, building, and sharing useful tools with the community.
 
 ---
 
 ## 🛠️ Skills & Technologies
-| Category | Skills |
-|----------|--------|
-| **Programming** | Python 🐍, JavaScript/TypeScript, Bash 🐚 |
-| **Databases** | MySQL, PostgreSQL, SQLite, MongoDB |
-| **Web Development** | React, Next.js, Node.js, Express, HTML5, CSS3 |
-| **DevOps** | Docker, Git, GitHub Actions |
-| **Data Science** | Pandas, NumPy, Matplotlib, Scikit‑learn |
-| **Other** | RESTful APIs, GraphQL, OAuth, Unit Testing |
-
----
-
-## 📂 Projects
-### Zomato Clone
-A full‑stack project that mimics Zomato’s core features – restaurant listing, search, ratings, and ordering flow. Built with **React** on the frontend, **Node/Express** for the API, and **PostgreSQL** for data storage.
-
-- 🗂️ **Backend:** Express, JWT authentication, PostgreSQL queries (SQL)
-- 🎨 **Frontend:** React, TailwindCSS, dynamic routing
-- 🔧 **Features:** Restaurant search, menu browsing, order placement, user reviews
-- 📦 **Live demo:** *Coming soon* (push your own instance!)
-
-<div align="center">
-  <img src="./assets/zomato-screenshot-1.png" alt="Zomato project screenshot 1" width="45%"/>
-  <img src="./assets/zomato-screenshot-2.png" alt="Zomato project screenshot 2" width="45%"/>
-</div>
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <a href="https://github.com/VanshYadav855?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshYadav855&layout=compact" alt="Top Languages"/>
-  </a>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VanshYadav855" alt="GitHub Streak"/>
-</div>
+<table>
+  <tr><th>Category</th><th>Skills</th></tr>
+  <tr><td>**Programming**</td><td>Python 🐍, JavaScript/TypeScript, Bash 🐚</td></tr>
+  <tr><td>**Databases**</td><td>MySQL, PostgreSQL, SQLite, MongoDB</td></tr>
+  <tr><td>**Web Development**</td><td>React, Next.js, Node.js, Express, HTML5, CSS3</td></tr>
+  <tr><td>**DevOps**</td><td>Docker, Git, GitHub Actions</td></tr>
+  <tr><td>**Data Science**</td><td>Pandas, NumPy, Matplotlib, Scikit‑learn</td></tr>
+  <tr><td>**Other**</td><td>RESTful APIs, GraphQL, OAuth, Unit Testing</td></tr>
+</table>
 
 ---
 
 ## 📬 Connect with Me
-- 🌐 **Website / Portfolio:** *[Your personal site URL]*
-- 🐦 **Twitter:** [@VanshYadav855](https://twitter.com/VanshYadav855)
-- 📧 **Email:** `vansh.yadav@example.com`
+<div align="center">
+  <a href="https://vansh-yadav.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Website-4c1" alt="Portfolio" />
+  </a>
+  <a href="https://twitter.com/VanshYadav855" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/VanshYadav855?style=social" alt="Twitter" />
+  </a>
+  <a href="mailto:vanshyadav855@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Message-blue" alt="Email" />
+  </a>
+</div>
 
 ---
 
