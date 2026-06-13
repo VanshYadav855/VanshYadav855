@@ -1,7 +1,5 @@
 # 👋 Hello, I'm **Vansh Yadav**
 
-[![GitHub followers](https://img.shields.io/github/followers/VanshYadav855?label=Followers&style=social)](https://github.com/VanshYadav855)
-[![GitHub stars](https://img.shields.io/github/stars/VanshYadav855?style=social)](https://github.com/VanshYadav855)
 
 ---
 
